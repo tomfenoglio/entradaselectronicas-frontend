@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/layout",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fcomponents%2FNavbar.jsx&modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fstyles%2Fglobals.css&server=false!":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fcomponents%2FNavbar.jsx&modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fstyles%2Fglobals.css&server=false! ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Navbar.jsx */ \"(app-client)/./components/Navbar.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"(app-client)/./styles/globals.css\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGdG9tYXNmZW5vZ2xpbyUyRlRvbSUyRldlYiUyMERldmVsb3BtZW50JTJGUHJvamVjdHMlMkZOZXh0LkpTJTJGZW50cmFkYXNlbGVjdHJvbmljYXMlMkZjb21wb25lbnRzJTJGTmF2YmFyLmpzeCZtb2R1bGVzPSUyRlVzZXJzJTJGdG9tYXNmZW5vZ2xpbyUyRlRvbSUyRldlYiUyMERldmVsb3BtZW50JTJGUHJvamVjdHMlMkZOZXh0LkpTJTJGZW50cmFkYXNlbGVjdHJvbmljYXMlMkZzdHlsZXMlMkZnbG9iYWxzLmNzcyZzZXJ2ZXI9ZmFsc2UhIiwibWFwcGluZ3MiOiJBQUFBLGlLQUF5STtBQUN6SSIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvPzI3M2YiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvdG9tYXNmZW5vZ2xpby9Ub20vV2ViIERldmVsb3BtZW50L1Byb2plY3RzL05leHQuSlMvZW50cmFkYXNlbGVjdHJvbmljYXMvY29tcG9uZW50cy9OYXZiYXIuanN4XCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvdG9tYXNmZW5vZ2xpby9Ub20vV2ViIERldmVsb3BtZW50L1Byb2plY3RzL05leHQuSlMvZW50cmFkYXNlbGVjdHJvbmljYXMvc3R5bGVzL2dsb2JhbHMuY3NzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fcomponents%2FNavbar.jsx&modules=%2FUsers%2Ftomasfenoglio%2FTom%2FWeb%20Development%2FProjects%2FNext.JS%2Fentradaselectronicas%2Fstyles%2Fglobals.css&server=false!\n"));
+
+/***/ })
+
+});
