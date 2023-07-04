@@ -1,12 +1,12 @@
 {
   "cssImports": {
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/app/layout.jsx": [
-      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/styles/globals.css"
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/layout.tsx": [
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css"
     ]
   },
   "cssModules": {
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/app/page": [
-      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/styles/globals.css"
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/page": [
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css"
     ]
   }
 }

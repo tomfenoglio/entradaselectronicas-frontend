@@ -1,4 +1,4 @@
-// File: /Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/app/layout.jsx
+// File: /Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

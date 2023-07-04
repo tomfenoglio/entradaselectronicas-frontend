@@ -176,21 +176,21 @@
         "async": false
       }
     },
-    "(app-client)/./components/Navbar.jsx": {
+    "(app-client)/./components/Navbar.tsx": {
       "*": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./components/Navbar.tsx",
         "name": "*",
         "chunks": [],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./components/Navbar.tsx",
         "name": "",
         "chunks": [],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./components/Navbar.tsx",
         "name": "default",
         "chunks": [],
         "async": false
@@ -265,7 +265,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/app-router.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -273,7 +273,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -281,7 +281,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/app-router.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -289,7 +289,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -297,7 +297,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/app-router.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -305,7 +305,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -313,15 +313,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -329,7 +321,15 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -337,7 +337,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -345,7 +345,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/error-boundary.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -353,7 +353,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -361,7 +361,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/error-boundary.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -369,7 +369,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -377,7 +377,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -385,7 +385,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -393,15 +393,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -409,7 +401,15 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -417,7 +417,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -425,7 +425,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -433,7 +433,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -441,7 +441,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -449,7 +449,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -457,7 +457,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -465,7 +465,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -473,15 +473,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -489,7 +481,15 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -497,7 +497,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -505,7 +505,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -513,7 +513,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -521,7 +521,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -529,7 +529,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -537,7 +537,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -545,7 +545,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -553,7 +553,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -561,7 +561,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -569,7 +569,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -577,7 +577,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -585,7 +585,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -593,7 +593,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -601,7 +601,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -609,7 +609,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -617,7 +617,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -625,7 +625,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -633,7 +633,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -641,7 +641,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -649,7 +649,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -657,7 +657,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -665,7 +665,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -673,7 +673,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -681,7 +681,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -689,7 +689,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -697,15 +697,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -713,7 +705,15 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -721,7 +721,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -729,7 +729,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -737,7 +737,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -745,7 +745,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -753,7 +753,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -761,15 +761,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -777,7 +769,15 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -785,7 +785,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -793,7 +793,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/layout-router.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -801,7 +801,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -809,7 +809,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/layout-router.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -817,7 +817,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -825,7 +825,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/layout-router.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -833,7 +833,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -841,7 +841,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -849,7 +849,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -857,7 +857,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -865,7 +865,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -873,7 +873,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -881,7 +881,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -889,7 +889,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -897,7 +897,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -905,7 +905,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -913,7 +913,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -921,7 +921,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -929,7 +929,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -937,38 +937,38 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/styles/globals.css#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/components/Navbar.jsx": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/Navbar.tsx": {
+      "id": "(app-client)/./components/Navbar.tsx",
       "name": "*",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/components/Navbar.jsx#": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/Navbar.tsx#": {
+      "id": "(app-client)/./components/Navbar.tsx",
       "name": "",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/components/Navbar.jsx#default": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/Navbar.tsx#default": {
+      "id": "(app-client)/./components/Navbar.tsx",
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/image.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -976,7 +976,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/image.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -984,7 +984,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/image.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -992,7 +992,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/image.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1000,7 +1000,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/image.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1008,7 +1008,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/image.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1016,7 +1016,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/link.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1024,7 +1024,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/link.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1032,7 +1032,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/link.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1040,7 +1040,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/link.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1048,7 +1048,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/client/link.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1056,7 +1056,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/client/link.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1064,7 +1064,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/head.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1072,7 +1072,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/head.js": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1080,7 +1080,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/head.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1088,7 +1088,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/head.js#": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1096,7 +1096,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/head.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1104,7 +1104,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/head.js#default": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1112,7 +1112,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1120,7 +1120,7 @@
       ],
       "async": false
     },
-    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
