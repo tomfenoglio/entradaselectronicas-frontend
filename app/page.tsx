@@ -1,13 +1,17 @@
-import Carousel from "@components/Carousel";
+import EventCards from "@components/EventCards";
+import EventSlider from "@components/EventSlider";
 
 
 const Home = () => {
   return (
-
-      <Carousel/>
-
-
-
+      <div>
+        <div>
+          <EventSlider/>
+        </div>
+        <div>
+          <EventCards/>
+        </div>
+      </div>
   )
 }
 

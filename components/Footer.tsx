@@ -6,7 +6,7 @@ import {BsFacebook, BsInstagram, BsLinkedin} from "react-icons/bs"
 
 const Footer = () => {
   return (
-    <footer className="w-full z-10 ease-in duration-300 font-inter mt-20 border-t border-gray-200 bg-white/50 py-8 backdrop-blur-lg rounded-t-[140px]">
+    <footer className="w-full ease-in duration-300 font-inter mt-20 border-t border-gray-200 bg-white/50 py-8 backdrop-blur-lg rounded-t-[140px]">
       <div className="text-center md:flex md:flex-row items-center md:mx-10"> {/* todo metido aca */}
 
         {/* logo + social networks */}

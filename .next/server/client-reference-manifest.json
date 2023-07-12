@@ -176,6 +176,46 @@
         "async": false
       }
     },
+    "(app-client)/./components/EventCards.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/EventCards.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/EventCards.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/EventCards.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/EventSlider.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/EventSlider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/EventSlider.tsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/EventSlider.tsx",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./components/Navbar.tsx": {
       "*": {
         "id": "(sc_client)/./components/Navbar.tsx",
@@ -937,12 +977,96 @@
       ],
       "async": false
     },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/effect-coverflow.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/free-mode.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/navigation.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/pagination.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/swiper.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
     "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
+        "static/css/app/page.css",
         "static/css/app/layout.css"
       ]
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventCards.tsx": {
+      "id": "(app-client)/./components/EventCards.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventCards.tsx#": {
+      "id": "(app-client)/./components/EventCards.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventCards.tsx#default": {
+      "id": "(app-client)/./components/EventCards.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventSlider.tsx": {
+      "id": "(app-client)/./components/EventSlider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventSlider.tsx#": {
+      "id": "(app-client)/./components/EventSlider.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/EventSlider.tsx#default": {
+      "id": "(app-client)/./components/EventSlider.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     },
     "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/components/Navbar.tsx": {
       "id": "(app-client)/./components/Navbar.tsx",

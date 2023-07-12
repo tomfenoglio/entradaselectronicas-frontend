@@ -2,11 +2,23 @@
   "cssImports": {
     "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/layout.tsx": [
       "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css"
+    ],
+    "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/page.tsx": [
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/swiper.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/effect-coverflow.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/pagination.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/navigation.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/free-mode.css"
     ]
   },
   "cssModules": {
     "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/app/page": [
-      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css"
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/styles/globals.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/swiper.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/effect-coverflow.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/pagination.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/navigation.css",
+      "/Users/tomasfenoglio/Tom/Web Development/Projects/Next.JS/entradaselectronicas-frontend/node_modules/swiper/modules/free-mode.css"
     ]
   }
 }

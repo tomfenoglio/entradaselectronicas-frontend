@@ -1,6 +1,6 @@
 import "@styles/globals.css"
 import Navbar from "@components/Navbar";
-import Carousel from "@components/Carousel";
+import Carousel from "@components/EventSlider";
 import Footer from "@components/Footer";
 import EventCards from "@components/EventCards";
 
@@ -29,7 +29,6 @@ const RootLayout = ({ children }) => {
             <main className="app">
                 <Navbar/>
                 {children}
-                <EventCards/>
             </main>
             <div className="flex bottom-0">
               <Footer/>

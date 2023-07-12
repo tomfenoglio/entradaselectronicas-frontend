@@ -65,7 +65,7 @@ const Nav = () => {
               Registrar
           </Link>
         </li>
-      
+
       </ul>
       {/* Mobile Button */}
       <div onClick={handleNav} className="block sm:hidden z-10">
